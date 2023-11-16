@@ -1,6 +1,6 @@
 # Nandi Probot: Revolutionizing Agriculture with Smart Technology
 
-![logo](https://github.com/AthishSK/Nandi_Probot/assets/92356927/781ce8c6-3260-4e1a-877c-ebea250a9431)
+!(https://github.com/AthishSK/Nandi_Probot/assets/92356927/c154affe-0801-4d0c-8fe8-79f6625fa3f1)
 
 ## Table of Contents
 - [Abstract](#abstract)
