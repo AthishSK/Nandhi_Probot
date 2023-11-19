@@ -30,13 +30,6 @@ Embrace the future of farming with Nandi Probot—a rover that takes agriculture
 This medium-sized rover provides farmers with remote monitoring and control capabilities. Its compact design ensures efficient field navigation and the user-friendly interface allows remote access to vital data and operations. Real-time adjustments ensure precision and efficiency in agricultural management.
 
 ![Working of Controller](https://github.com/AthishSK/Nandi_Probot/assets/92356927/af903c49-ab5f-4915-bc71-29cbe32583a5) 
-
-<img src="https://github.com/AthishSK/Nandi_Probot/assets/92356927/af903c49-ab5f-4915-bc71-29cbe32583a5" width="500" height="250" />
-
-<div style="text-align:center;">
-  <img src="https://github.com/AthishSK/Nandi_Probot/assets/92356927/af903c49-ab5f-4915-bc71-29cbe32583a5" width="500" height="250" />
-</div>
-
 ### Solar Tracking System
 Optimize energy efficiency with the solar tracking system, continuously aligning solar panels with the sun's position. This ensures sustained power for smart agricultural functions, enhancing sustainability and productivity.
 
